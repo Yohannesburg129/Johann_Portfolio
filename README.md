@@ -12,12 +12,12 @@ This is a project I did for my Data Science Bootcamp's capstone project where I 
 
 Below are just a few visuals of the data I analyzed. If you'd like a more in-depth look to the process I took, do please click the link and take a look through my code. 
 
-### Most Positive/Negative Correlated Words For Yes/No Recommendations
+### MPositive/Negative Correlated Words For Yes/No Recommendations
 ![](https://user-images.githubusercontent.com/69922537/155848846-254edabb-ac77-4e81-bce0-37cd3db46a0c.png)
 
-### Traveller Breakdown by Middle Eastern Carriers
+### Traveller Type Breakdown by Middle Eastern Carriers
 ![](https://user-images.githubusercontent.com/69922537/155849114-78496444-f4b4-4b53-8645-266ca506b6c1.png)
 
-### Average Yearly Service Performance - Emirates
+### Average Score Performance - Emirates
 ![](https://user-images.githubusercontent.com/69922537/155849138-bcc5d8a4-b088-4a10-8d98-6d9b9efb48c5.png)
 

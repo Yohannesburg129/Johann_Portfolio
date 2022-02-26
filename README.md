@@ -10,9 +10,9 @@ This is a project I did for my Data Science Bootcamp's capstone project where I 
 * Machine Learning Models: Logistic Regression, K-Nearest Neighbors, Support Vector Machine (SVM), Decision Trees
 * Used CountVectorizer to tokenize each word of each review
 
-Below are just a few visuals of the data I analyzed. If you'd like a more in-depth look to the process I took, do please click the link and take a look through my code. 
+Below are just a few visuals of the data I analyzed using Python and Tableau. If you'd like a more in-depth look to the process I took, do please click the link and take a look through my code. 
 
-### MPositive/Negative Correlated Words For Yes/No Recommendations
+### Positive/Negative Correlated Words For Yes/No Recommendations
 ![](https://user-images.githubusercontent.com/69922537/155848846-254edabb-ac77-4e81-bce0-37cd3db46a0c.png)
 
 ### Traveller Type Breakdown by Middle Eastern Carriers

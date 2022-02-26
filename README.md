@@ -10,4 +10,5 @@ This is a project I did for my Data Science Bootcamp's capstone project where I 
 * Performed Data Analysis on select business questions that are detailed in the attached Business Report
 * Machine Learning Models: Logistic Regression, K-Nearest Neighbors, Support Vector Machine (SVM), Decision Trees
 
-
+## Most Positive/Negative Correlated Words For Yes/No Recommendations
+![](https://user-images.githubusercontent.com/69922537/155848846-254edabb-ac77-4e81-bce0-37cd3db46a0c.png)

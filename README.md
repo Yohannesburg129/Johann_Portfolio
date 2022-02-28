@@ -6,9 +6,10 @@ This is a project I did for my Data Science Bootcamp's capstone project where I 
 
 * Data for airline customer reviews was found on Kaggle
 * Performed Data Cleaning to ensure no missing values
-* Performed Data Analysis on select business questions that are detailed in the attached Business Report
-* Machine Learning Models: Logistic Regression, K-Nearest Neighbors, Support Vector Machine (SVM), Decision Trees
-* Used CountVectorizer to tokenize each word of each review
+* Performed Data Analysis on Middle Eastern carriers to compare each airline and their overall performance.
+* Used CountVectorizer to tokenize each word of each customer reviews
+* Applied Machine Learning Models - Logistic Regression, K-Nearest Neighbors, Support Vector Machine (SVM), Decision Trees - to compare which method produced the greatest test accuracy.
+
 
 Below are just a few visuals of the data I analyzed using Python and Tableau. If you'd like a more in-depth look to the process I took, do please click the link and take a look through my code. 
 

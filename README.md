@@ -1,5 +1,7 @@
 # Johann Manukulasuriya
 
+This is a collection of various projects I've undertaken in my spare time. Please have a look at some of the projects above, as well as a snapshot of the Capstone Project I did during my time at BrainStation's Data Science Bootcamp below.
+
 # [Project 1: Natural Language Processing - Airline Customer Reviews](https://github.com/Yohannesburg129/capstone_project)
 
 This is a project I did for my Data Science Bootcamp's capstone project where I used Natural Language Processing to help predict whether a customer's review of an airline led to a Yes/No recommendation. 

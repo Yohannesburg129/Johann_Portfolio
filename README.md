@@ -3,6 +3,8 @@
 This is a collection of various projects I've undertaken in my spare time. Please have a look at some of the projects above, as well as a snapshot of the Capstone Project I did during my time at BrainStation's Data Science Bootcamp below. Below is just a summary of the projects (Python Code Above) I have done:
 
 1. **E-Commerce Customer Behaviour:** The goal of this project is to conduct a comprehensive EDA on a dataset of online store purchases. By studying customer demographics, product preferences, and purchasing behaviours, we aim to transform raw data into actionable strategic insights. This analysis addresses key questions about who our customers are, what they buy, and how they make decisions, providing a solid foundation for improving marketing strategies, inventory management, and customer satisfaction.
+   
+2. **Red Wine Quality Prediction:** In this project, I'll guide you through an in-depth journey of Exploratory Data Analysis (EDA) and classification tasks aimed at delivering balanced and dependable results. I will evaluate the effectiveness of various machine learning algorithms.
 
 # [Project 1: Natural Language Processing - Airline Customer Reviews](https://github.com/Yohannesburg129/capstone_project)
 

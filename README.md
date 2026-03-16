@@ -6,6 +6,8 @@ This is a collection of various projects I've undertaken in my spare time. Pleas
    
 2. **Red Wine Quality Prediction:** In this project, I'll guide you through an in-depth journey of Exploratory Data Analysis (EDA) and classification tasks aimed at delivering balanced and dependable results. I will evaluate the effectiveness of various machine learning algorithms.
 
+3. **Netflix EDA & Visualization:** Analyze the data and generate insights that could help Netflix in deciding which type of shows/movies to produce and how they can grow the business in different countries.
+
 # [Project 1: Natural Language Processing - Airline Customer Reviews](https://github.com/Yohannesburg129/capstone_project)
 
 This is a project I did for my Data Science Bootcamp's capstone project where I used Natural Language Processing to help predict whether a customer's review of an airline led to a Yes/No recommendation. 

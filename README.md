@@ -8,7 +8,6 @@ This is a collection of various projects I've undertaken in my spare time. Pleas
 
 3. **Netflix EDA & Visualization:** Analyze the data and generate insights that could help Netflix in deciding which type of shows/movies to produce and how they can grow the business in different countries.
 
-4. **Twitter Sentiment Analysis**: Twitter is an online Social Media Platform where people share their their though as tweets. It is observed that some people misuse it to tweet hateful content. Twitter is trying to tackle this problem and we shall help it by creating a strong NLP based-classifier model to distinguish the negative tweets & block such tweets. Can you build a strong classifier model to predict the same?
 
 # [Project 1: Natural Language Processing - Airline Customer Reviews](https://github.com/Yohannesburg129/capstone_project)
 
